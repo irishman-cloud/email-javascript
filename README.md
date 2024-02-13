@@ -1,4 +1,4 @@
-# Irishman Bulk Email's Javascript SDK
+# ![Irishman Bulk Email's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/email-javascript/master/.github/banner.svg)
 
 Compliantly email users with ease.
 

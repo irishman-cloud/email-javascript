@@ -1,6 +1,9 @@
 # ![Irishman Bulk Email's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/email-javascript/master/.github/banner.svg)
 
-Compliantly email users with ease.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/email-javascript)](https://github.com/irishman-cloud/email-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/email-javascript)](https://github.com/irishman-cloud/email-javascript/issues)
+
+<b align="center">Compliantly email users with ease.</b>
 
 ## Table of Contents
 
